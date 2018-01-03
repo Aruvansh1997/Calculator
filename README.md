@@ -1,0 +1,1 @@
+THE CALCULATOR app is used to perform all the basic operations ranging from add,subtract,divide,multiply,clear on a given set of values.
